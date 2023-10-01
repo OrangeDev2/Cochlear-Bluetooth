@@ -1,7 +1,7 @@
+### I'm using the SimplePyBLE library to scan the Bluetooth/BLE devices around me and connects to my cochlear processor at the first stage.
 ![New Project (4)](https://github.com/Saboor-Malik/cochlear-bluetooth/assets/47803678/e406af1c-b8f0-488d-97db-116f4b163708)
 
 ### In my project, I'm trying to establish a connection with my processor Cochlear Nucleus 7, similar to how the Nucleus Smart app does.  
-### I'm using the SimplePyBLE library to scan the Bluetooth/BLE devices around me and connects to my cochlear processor at the first stage.
 ![image](https://github.com/Saboor-Malik/cochlear-bluetooth/assets/47803678/89072867-a8a4-4319-a746-dbab879c36ea)
 
 ### It seems like my cochlear processor is not in discoverable mode or It might not be the bluetooth protocol that has to detect my processor.
