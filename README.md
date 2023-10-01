@@ -19,4 +19,5 @@ Note: Cochlear Processor is not in discoverable mode, awaiting Cochlear American
 Resources:
 
 https://learn.sparkfun.com/tutorials/bluetooth-basics/all
+
 https://github.com/Saboor-Malik/SimpleBLE
