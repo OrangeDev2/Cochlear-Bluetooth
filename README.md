@@ -1,4 +1,4 @@
-10/11/2023 UPdate: I am ordering Phone Clip which is an accessory as a middleware between Cochlear Processors and all the computer devices.
+# As of October 11, 2023, I'm getting a Phone Clip accessory, which acts as a middleman to link multiple versions of Cochlear Processors with Bluetooth devices like PC.  Nuclesus 7 with BLE itself only supports some iOS and Android devices.
 
 ![New Project (4)](https://github.com/Saboor-Malik/cochlear-bluetooth/assets/47803678/e406af1c-b8f0-488d-97db-116f4b163708)
 
