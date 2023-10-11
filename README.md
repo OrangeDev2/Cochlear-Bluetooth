@@ -1,3 +1,5 @@
+10/11/2023 UPdate: I am ordering Phone Clip which is an accessory as a middleware between Cochlear Processors and all the computer devices.
+
 ![New Project (4)](https://github.com/Saboor-Malik/cochlear-bluetooth/assets/47803678/e406af1c-b8f0-488d-97db-116f4b163708)
 
 ### In my project, I'm trying to establish a connection with my processor Cochlear Nucleus 7 through Bluetooth protocol (Using SimplePYBLE Library), similar to how the Nucleus Smart app does.  
