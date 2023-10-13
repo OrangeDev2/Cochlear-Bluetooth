@@ -10,14 +10,6 @@
 
 Bluetooth protcol and possibly pushed to settings by Nucleus Smart app (Mobile app) is only method I know that can connects to my cochlear processor.
 
-Note: Cochlear Processor is not in discoverable mode, awaiting Cochlear Americans response.
-
-    What I know is,
-
-    Nucleus smart has to establish an connection in some way then push it to the bluetooth settings on phone
-    Processor's not in discoverable mode, maybe on Android only?  i.e React native app
-    I looked up the specs for my processor, it says it has Bluetooth Smart (called BLE now), the python library should work but it's just not in discoverable by Windows?
-
 Resources:
 
 https://learn.sparkfun.com/tutorials/bluetooth-basics/all
