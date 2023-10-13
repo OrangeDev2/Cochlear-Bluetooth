@@ -1,4 +1,4 @@
-### October 11, 2023 Update: I'm ordering a Phone Clip accessory, which acts as a middleman to link multiple versions of Cochlear Processors with Bluetooth devices like PC.  Nuclesus 7 with BLE itself only supports some iOS and Android devices.
+### October 11, 2023 Update: I'm ordering a Phone Clip accessory, which acts as a middleman to link Cochlear Processors with Bluetooth devices like PC.  Nuclesus 7 with BLE itself only supports some iOS and Android devices.
 
 ![New Project (4)](https://github.com/Saboor-Malik/cochlear-bluetooth/assets/47803678/e406af1c-b8f0-488d-97db-116f4b163708)
 
